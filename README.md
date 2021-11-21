@@ -2,6 +2,10 @@
 
 This app helps calculate the sizes of the different columns of a project, from the labels named `Size : XX` on issues.
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/77668087/142779688-8da0b6ed-ddcb-4a0a-924e-075eee8efd46.png">
+</p>
+
 ## Usage
 
 To use the app:
